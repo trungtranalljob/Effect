@@ -1,0 +1,46 @@
+=============== 
+Unity generated
+===============
+Effect/Temp/
+Effect/Library/
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+Effect/ExportedObj/
+Effect/obj/
+*.svd
+*.userprefs
+/Effect/*.csproj
+*.pidb
+*.suo
+/Effect/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs
+*.dwlt
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Effect/remote_config_data
+Effect/Logs/
+temp_res
+release
+Effect/.vsconfig
+Effect/.vs
+Effect/.idea
+Effect/Layouts/
+Effect/UserSettings/
+Effect/Assets/BuildReports/
+Effect/.vscode/settings.json
+Effect/Bundles/
+Build/
