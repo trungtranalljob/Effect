@@ -56,7 +56,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -4926,7 +4926,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -9796,7 +9796,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -19531,7 +19531,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -38965,7 +38965,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -48685,7 +48685,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5864011034571169100}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.22, y: 0, z: -0.08000086}
+  m_LocalPosition: {x: -2, y: 0, z: -0.08000086}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -48715,7 +48715,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.5
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -53585,7 +53585,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.6
+    scalar: 0.2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -58425,7 +58425,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5864011034790445209}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.98, y: 0, z: -0.08000086}
+  m_LocalPosition: {x: -2, y: 0, z: -0.08000086}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -58455,7 +58455,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.5
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -63325,7 +63325,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.6
+    scalar: 0.2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -68165,7 +68165,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5864011035133339867}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2, y: 0, z: -0.02}
+  m_LocalPosition: {x: -3, y: 0, z: -0.02}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -68197,7 +68197,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -73067,7 +73067,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -77907,7 +77907,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5864011035530774578}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.25, y: 0, z: -0.02}
+  m_LocalPosition: {x: 3, y: 0, z: -0.02}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -77939,7 +77939,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0.45
+    scalar: 0
     minScalar: 0
     maxCurve:
       serializedVersion: 2
