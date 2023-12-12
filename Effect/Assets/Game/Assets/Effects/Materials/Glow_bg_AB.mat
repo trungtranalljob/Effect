@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Glow_bg_AB
-  m_Shader: {fileID: 4800000, guid: bd6af5d577c618947b73aa60db554e51, type: 3}
+  m_Shader: {fileID: 4800000, guid: b68b99c2e57cef4419465c63c527201b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - ADDITIVECONFIG_ON
@@ -202,6 +202,7 @@ Material:
     - _OffsetSh1: 1
     - _OffsetSh2: 1
     - _OffsetSh3: 1
+    - _Opacity: 1
     - _Parallax: 0.02
     - _PixelateSize: 32
     - _PosterizeNumColors: 5
