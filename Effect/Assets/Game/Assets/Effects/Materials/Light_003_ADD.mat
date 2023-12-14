@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Effect_shock_wave_red
+  m_Name: Light_003_ADD
   m_Shader: {fileID: 4800000, guid: bd6af5d577c618947b73aa60db554e51, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 21f82ec196e5f1b49a866cb66744ae2d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0306d47a20f2d4e41bf95c0c90010c2e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
@@ -106,5 +106,5 @@ Material:
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
-    - _TintColor: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 0.5}
+    - _TintColor: {r: 0.7372549, g: 0.7372549, b: 0.7372549, a: 0.5}
   m_BuildTextureStacks: []
