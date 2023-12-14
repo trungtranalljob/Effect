@@ -1401,6 +1401,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13f3a032f7331d446b61427b8336ded5, type: 3}
+--- !u!1001 &6260502257327843232
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397259, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397262, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_Name
+      value: Effect_rain_meteorite
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
 --- !u!1001 &6914545925522039360
 PrefabInstance:
   m_ObjectHideFlags: 0
