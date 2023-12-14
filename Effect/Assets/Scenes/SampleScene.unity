@@ -1127,6 +1127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Effect_meteorite
       objectReference: {fileID: 0}
+    - target: {fileID: 1144692814889518347, guid: dc0260aec76bbcf4e8087c359feb1eb3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1144692814889518350, guid: dc0260aec76bbcf4e8087c359feb1eb3, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -1228,6 +1232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Effect_ice_circle
       objectReference: {fileID: 0}
+    - target: {fileID: 6436320233829299061, guid: ffbb8fb0724d3fe44b260d89831293bb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffbb8fb0724d3fe44b260d89831293bb, type: 3}
 --- !u!1001 &2838054051811704876
@@ -1240,6 +1248,10 @@ PrefabInstance:
     - target: {fileID: 4354762623027233475, guid: 29e8b6233645df54bb186a38b9059c0f, type: 3}
       propertyPath: m_Name
       value: Effect_dust_whitegray
+      objectReference: {fileID: 0}
+    - target: {fileID: 4354762623027233475, guid: 29e8b6233645df54bb186a38b9059c0f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7214382304908723524, guid: 29e8b6233645df54bb186a38b9059c0f, type: 3}
       propertyPath: m_RootOrder
@@ -1297,6 +1309,10 @@ PrefabInstance:
     - target: {fileID: 8718379890340540400, guid: 3f8df0afc67d0584ea30cf29173b6ecd, type: 3}
       propertyPath: m_Name
       value: Effect_thunder
+      objectReference: {fileID: 0}
+    - target: {fileID: 8718379890340540400, guid: 3f8df0afc67d0584ea30cf29173b6ecd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8718379890340540403, guid: 3f8df0afc67d0584ea30cf29173b6ecd, type: 3}
       propertyPath: m_RootOrder
@@ -1399,6 +1415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Effect_explosion_meteorite
       objectReference: {fileID: 0}
+    - target: {fileID: 8776823688835318715, guid: 13f3a032f7331d446b61427b8336ded5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13f3a032f7331d446b61427b8336ded5, type: 3}
 --- !u!1001 &6260502257327843232
@@ -1456,6 +1476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Effect_rain_meteorite
       objectReference: {fileID: 0}
+    - target: {fileID: 1513387315934397262, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dea665f4fe99be64e97f72559b72bbfa, type: 3}
 --- !u!1001 &6914545925522039360
@@ -1468,6 +1492,10 @@ PrefabInstance:
     - target: {fileID: 548055380290035900, guid: 33491c86ebdee5842b32c9f1b37198a6, type: 3}
       propertyPath: m_Name
       value: Effect_spawn_red
+      objectReference: {fileID: 0}
+    - target: {fileID: 548055380290035900, guid: 33491c86ebdee5842b32c9f1b37198a6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5843587060488418137, guid: 33491c86ebdee5842b32c9f1b37198a6, type: 3}
       propertyPath: m_RootOrder
@@ -1573,6 +1601,10 @@ PrefabInstance:
     - target: {fileID: 2309235038071537618, guid: 68621af369f434943bde1c7e95158335, type: 3}
       propertyPath: m_Name
       value: Effect_explosion_bigbang
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309235038071537618, guid: 68621af369f434943bde1c7e95158335, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 68621af369f434943bde1c7e95158335, type: 3}
