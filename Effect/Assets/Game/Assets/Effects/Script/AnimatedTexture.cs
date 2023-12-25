@@ -10,6 +10,7 @@ public class AnimatedTexture : MonoBehaviour
 
     [SerializeField] private float fps = 30f;
     private float fpsCounter;
+    private bool completed = false;
 
     private void Awake()
     {
@@ -24,12 +25,17 @@ public class AnimatedTexture : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(completed)
+            return;
         fpsCounter += Time.deltaTime;
         if (fpsCounter >= 1f/ fps) 
         {
             animationStep++;
             if( animationStep == textures.Length )
-                animationStep = 0;
+            {
+                completed = true;
+                return;
+            }
 
             lineRenderer.material.SetTexture("_MainTex", textures[animationStep]);
 
