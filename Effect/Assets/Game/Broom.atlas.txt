@@ -1,0 +1,6 @@
+Broom.png
+size:124,425
+filter:Linear,Linear
+pma:true
+扫把扫地
+bounds:2,2,120,421
