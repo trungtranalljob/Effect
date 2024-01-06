@@ -62,6 +62,7 @@
     <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonFireProjectile.cs" />
     <Compile Include="Assets\Hovl Studio\Resources\Scripts\For demo scenes\HS_DemoToonVFX.cs" />
     <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonSoundSpawn.cs" />
+    <Compile Include="Assets\Game\Assets\Effects\Script\AnimatedTextureLoop.cs" />
     <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonLightFlicker.cs" />
     <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonProjectileScript.cs" />
     <Compile Include="Assets\Game\Assets\Effects\Script\LaserControl.cs" />
