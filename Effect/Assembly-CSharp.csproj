@@ -99,6 +99,7 @@
     <None Include="Assets\Game\Assets\Effects\Shaders\BlendDistort.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\AddTrail.shader" />
     <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyRimLightTransparent.shader" />
+    <None Include="Assets\Game\char.atlas.txt" />
     <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyLitSurface.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Add_CenterGlow.shader" />
     <None Include="Assets\unity3d.txt" />
