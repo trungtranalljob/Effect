@@ -884,6 +884,10 @@
       <Project>{38274B45-D821-7B44-F8F5-2664F18806CC}</Project>
       <Name>spine-csharp</Name>
     </ProjectReference>
+    <ProjectReference Include="AllIn1SpriteShaderAssembly.csproj">
+      <Project>{9B204FBF-E729-5777-0789-AE06617654B5}</Project>
+      <Name>AllIn1SpriteShaderAssembly</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
