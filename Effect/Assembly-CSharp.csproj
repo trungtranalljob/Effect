@@ -868,6 +868,10 @@
       <Project>{683CB421-6A0A-0203-E4DE-1752B58F3FB2}</Project>
       <Name>spine-unity-examples</Name>
     </ProjectReference>
+    <ProjectReference Include="AllIn1SpriteShaderAssembly.csproj">
+      <Project>{9B204FBF-E729-5777-0789-AE06617654B5}</Project>
+      <Name>AllIn1SpriteShaderAssembly</Name>
+    </ProjectReference>
     <ProjectReference Include="AllIn1VfxAssmebly.csproj">
       <Project>{6C06FE2D-3C61-BD9D-BFED-308B7F03254A}</Project>
       <Name>AllIn1VfxAssmebly</Name>
@@ -883,10 +887,6 @@
     <ProjectReference Include="spine-csharp.csproj">
       <Project>{38274B45-D821-7B44-F8F5-2664F18806CC}</Project>
       <Name>spine-csharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="AllIn1SpriteShaderAssembly.csproj">
-      <Project>{9B204FBF-E729-5777-0789-AE06617654B5}</Project>
-      <Name>AllIn1SpriteShaderAssembly</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
