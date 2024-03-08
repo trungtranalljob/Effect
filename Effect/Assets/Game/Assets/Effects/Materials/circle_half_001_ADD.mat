@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: circle_003
-  m_Shader: {fileID: 4800000, guid: b68b99c2e57cef4419465c63c527201b, type: 3}
+  m_Name: circle_half_001_ADD
+  m_Shader: {fileID: 4800000, guid: bd6af5d577c618947b73aa60db554e51, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: bff4b131f6b5416499e74f198555eaf1, type: 3}
+        m_Texture: {fileID: 2800000, guid: b107f16b8751dc34c966d1f58d562ad6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
@@ -57,7 +57,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Noise:
-        m_Texture: {fileID: 2800000, guid: 65f3681c89cd6404b8af71a71a77f6d4, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -74,6 +74,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Blend2: 1
     - _BumpScale: 1
     - _CullMode: 0
     - _Cutoff: 0.5
@@ -88,7 +89,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Opacity: 1.5
+    - _Opacity: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -101,6 +102,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0.5, a: 0}
+    - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
     - _TintColor: {r: 0.735849, g: 0.735849, b: 0.735849, a: 0.5019608}
   m_BuildTextureStacks: []
