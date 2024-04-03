@@ -56,26 +56,13 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonEffectCycler.cs" />
     <Compile Include="Assets\Hovl Studio\Resources\Scripts\HS_ParticleCollisionInstance.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonLightFade.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonFireProjectile.cs" />
     <Compile Include="Assets\Hovl Studio\Resources\Scripts\For demo scenes\HS_DemoToonVFX.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonSoundSpawn.cs" />
     <Compile Include="Assets\Game\Assets\Effects\Script\AnimatedTextureLoop.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonLightFlicker.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonProjectileScript.cs" />
     <Compile Include="Assets\Game\Assets\Effects\Script\LaserControl.cs" />
     <Compile Include="Assets\Game\Assets\Effects\Script\AnimatedTexture.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonLoopScript.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonSceneSelect.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonBeamStatic.cs" />
     <Compile Include="Assets\Hovl Studio\Resources\Scripts\HS_FrontMover.cs" />
     <Compile Include="Assets\Hovl Studio\Resources\Scripts\HS_EffectSound.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonButtonScript.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonOrbit.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Scripts\PolygonRotation.cs" />
-    <Compile Include="Assets\Polygon Arsenal\Demo\Scripts\PolygonBeamScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Spine\version.txt" />
@@ -83,23 +70,17 @@
     <None Include="Assets\Game\Assets\Effects\Shaders\Lit_CenterGlow.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\SmoothSmoke.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\DissolveNoise.shader" />
-    <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyIntense.Shader" />
-    <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyRimLightSelective.shader" />
     <None Include="Assets\Hovl Studio\Resources\Shaders\Add_Fresnel.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Distortion.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Blend_TwoSides.shader" />
     <None Include="Assets\Hovl Studio\Epic toon VFX 2\Demo scene\Readme.txt" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Electricity.shader" />
-    <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyRimLightSolid.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Blend_CenterGlow.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Blend_Normals.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\LightGlow.shader" />
-    <None Include="Assets\Polygon Arsenal\Polygon Arsenal 2.0 - Documentation.txt" />
     <None Include="Assets\Hovl Studio\Resources\Shaders\Lightning.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\BlendDistort.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\AddTrail.shader" />
-    <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyRimLightTransparent.shader" />
-    <None Include="Assets\Polygon Arsenal\Shaders\Standard\PolyLitSurface.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Add_CenterGlow.shader" />
     <None Include="Assets\unity3d.txt" />
     <None Include="Assets\Hovl Studio\Epic toon VFX 2\Demo scene\HDRP and URP(LWRP).txt" />
