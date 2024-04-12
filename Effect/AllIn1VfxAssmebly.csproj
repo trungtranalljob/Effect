@@ -74,16 +74,12 @@
     <Compile Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Scripts\AllIn1VfxNoiseCreator.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\Resources\AllIn1VfxBuiltIn.shader" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\EditorShaders\Resources\AllIn1VfxWorleyNoise.shader" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\AllIn1VfxAssmebly.asmdef" />
-    <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\Resources\AllIn1VfxFunctions.cginc" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\All1VfxZWriteGpuInstancing.shader" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\EditorShaders\Resources\AllIn1VfxFractalNoise.shader" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\All1VfxZWrite.shader" />
     <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\!README.txt" />
-    <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\Resources\AllIn1VfxGrabPass.shader" />
-    <None Include="Assets\Game\Assets\Effects\AllIn1VfxToolkit\Shaders\Resources\AllIn1Vfx.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
