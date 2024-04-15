@@ -71,6 +71,7 @@
     <None Include="Assets\Game\Assets\Effects\Shaders\Lit_CenterGlow.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\AllIn1VfxFunctions.cginc" />
     <None Include="Assets\Game\Assets\Effects\Shaders\SmoothSmoke.shader" />
+    <None Include="Assets\Game\Assets\Effects\Animation\RB_home.atlas.txt" />
     <None Include="Assets\Game\Assets\Effects\Shaders\DissolveNoise.shader" />
     <None Include="Assets\Hovl Studio\Resources\Shaders\Add_Fresnel.shader" />
     <None Include="Assets\Game\Assets\Effects\Shaders\Distortion.shader" />
